@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-javier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/villalba-javier)](https://www.linkedin.com/in/villalba-javier) [![Gmail Badge](https://img.shields.io/badge/-javiervillalba.04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javiervillalba.04@gmail.com)](mailto:javiervillalba.04@gmail.com) [![Behance](https://img.shields.io/badge/-some%20works-black?style=flat-square&logo=Behance&link=https:https://www.behance.net/javiervillalbaf)](https://www.behance.net/javiervillalbaf)
 
 ## My skill set💻
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,git,js,react,nodejs,mysql,php,java)](https://skills.thijs.gg)
+[![My Skills](![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white))](https://skills.thijs.gg)
 
 ## Who am I?
 
