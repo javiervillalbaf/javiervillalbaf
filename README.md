@@ -29,6 +29,4 @@ class WhoAmI {
 }
 ```
 
-##  _Focused on creating impactful web applications that improve lives_
-
 
