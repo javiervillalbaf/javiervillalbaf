@@ -14,7 +14,7 @@ class WhoAmI {
     constructor() {
         this.user = "Javier Villalba";
         this.currentWork = "Coding at an international web development agency located in Boston, MA";
-        this.education = "System analyst at University of General Sarmiento (and many different courses in different places :))"
+        this.education = "Software engineering at University of General Sarmiento (and many different courses in different places :))"
         this.hobbies = [
             "Playing videogames",
             "Watching series",
