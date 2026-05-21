@@ -22,7 +22,7 @@ class WhoAmI {
     }
    
     getRegards() {
-        return "Thanks for watching!";
+        return "Thanks for stopping by!";
     }
 }
 ```
